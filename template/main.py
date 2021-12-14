@@ -2,8 +2,8 @@ import colors
 import part1, part2
 
 day = '1'
-test1answer = 7
-test2answer = 5
+test1answer = None
+test2answer = None
 
 if __name__ == '__main__':
     print('AdventOfCode 2021 Day ' + day)
